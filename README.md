@@ -45,7 +45,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,mongodb,postman,figma,git,github,vscode" />
   </a>
 </p>
 
