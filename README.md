@@ -35,7 +35,7 @@
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ## 👨‍💻 About Me
 🎓 Computer Software Engineering graduate  
-💻 JavaScript enthusiast by choice, currently deep-diving into **Next.js**  
+💻 Love JavaScript and currently deep-diving into **full-stack Next.js**  
 🚀 From graduation to building full-stack apps with the JS ecosystem  
 🌱 Always learning, always coding, always growing  
 
