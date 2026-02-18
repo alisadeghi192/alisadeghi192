@@ -7,7 +7,11 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="65%">
 </p>
 <div>
-    
+
+<a href="mailto:aliisadeghii192@gmail.com">
+    <img src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
+</a>
+
 </div>
 
   <div align=center">
