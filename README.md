@@ -34,10 +34,11 @@
 
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ## 👨‍💻 About Me
-🎓 Computer Software Engineering graduate  
-💻 Love JavaScript and currently deep-diving into **full-stack Next.js**  
-🚀 From graduation to building full-stack apps with the JS ecosystem  
-🌱 Always learning, always coding, always growing  
+🎓 Computer Software Engineering graduate.  
+💻 Love JavaScript and currently deep-diving into **full-stack Next.js**. 
+🚀 From graduation to building full-stack apps with the JS ecosystem. 
+🔎 Love serching deep to fix bugs.
+🌱 Always learning, always coding, always growing .
 
 ---
 
@@ -48,7 +49,5 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,mongodb,postman,figma,git,github,vscode" />
   </a>
 </p>
-
----
 
 
