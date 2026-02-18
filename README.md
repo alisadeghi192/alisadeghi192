@@ -32,14 +32,12 @@
 
 :man_technologist:About Me :
 
-I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Software Engineer and contributing to frontend  for building the client side of web applications with moden framworks like ReactJs,NextJs
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.and also availble to solve your problems
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/amir-keramat-8196b6298")
+I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+## 👨‍💻 About Me
+🎓 Computer Software Engineering graduate  
+💻 JavaScript enthusiast by choice, currently deep-diving into **Next.js**  
+🚀 From graduation to building full-stack apps with the JS ecosystem  
+🌱 Always learning, always coding, always growing  
 
 ---
 
