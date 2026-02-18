@@ -32,11 +32,11 @@
 
 :man_technologist:About Me :
 
-I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-🎓 Computer Software Engineering graduate.  
-💻 Love JavaScript and currently deep-diving into **full-stack Next.js**. 
-🚀 From graduation to building full-stack apps with the JS ecosystem. 
-🔎 Love serching deep to fix bugs.
+I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>
+🎓 Computer Software Engineering graduate.  <br>
+💻 Love JavaScript and currently deep-diving into **full-stack Next.js**. <br>
+🚀 From graduation to building full-stack apps with the JS ecosystem. <br>
+🔎 Love serching deep to fix bugs.<br>
 🌱 Always learning, always coding, always growing .
 
 ---
