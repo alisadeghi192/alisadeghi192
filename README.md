@@ -11,7 +11,7 @@
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
 </a>
 <a href="instagram.com/alisadeghi_dev">
-    <img width="65px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/insta.png" />
+    <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/instagram.png" />
 </a>
 <a href="t.me/alisadeghi_dev">
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/telegram.png" />
