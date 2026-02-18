@@ -7,16 +7,16 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="65%">
 </p>
 <div>
-<a href="mailto:aliisadeghii192@gmail.com">
+<a href="mailto:aliisadeghii192@gmail.com" style="text-decoration: none; border: none;">>
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
 </a>
-<a href="instagram.com/alisadeghi_dev">
+<a href="instagram.com/alisadeghi_dev" style="text-decoration: none; border: none;">>
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/instagram.png" />
 </a>
-<a href="t.me/alisadeghi_dev">
+<a href="t.me/alisadeghi_dev" style="text-decoration: none; border: none;">>
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/telegram.png" />
 </a>
-<a href="wa.me/989371921199">
+<a href="wa.me/989371921199" style="text-decoration: none; border: none;">>
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/whatsapp.png" />
 </a>
 
