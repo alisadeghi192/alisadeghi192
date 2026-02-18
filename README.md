@@ -7,9 +7,14 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="65%">
 </p>
 <div>
-
 <a href="mailto:aliisadeghii192@gmail.com">
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
+</a>
+<a href="instagram.com/alisadeghi_dev">
+    <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/instagrma.png" />
+</a>
+<a href="t.me/alisadeghi_dev">
+    <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/telegram.png" />
 </a>
 
 </div>
