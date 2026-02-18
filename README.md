@@ -16,7 +16,7 @@
 <a href="t.me/alisadeghi_dev">
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/telegram.png" />
 </a>
-<a href="wa.me/alisadeghi_dev">
+<a href="wa.me/989371921199">
     <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/whatsapp.png" />
 </a>
 
