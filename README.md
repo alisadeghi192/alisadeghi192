@@ -9,7 +9,7 @@
 <div>
 
 <a href="mailto:aliisadeghii192@gmail.com">
-    <img src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
+    <img width="55px" src="https://github.com/alisadeghi192/alisadeghi192/blob/main/logos/gmail.png" />
 </a>
 
 </div>
